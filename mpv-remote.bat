@@ -1,0 +1,1 @@
+@>\\.\pipe\mpv-pipe echo %*

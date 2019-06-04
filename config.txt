@@ -1,0 +1,2 @@
+streamplayer=..\stream-player
+mpvpath=..\stream-player\bin
